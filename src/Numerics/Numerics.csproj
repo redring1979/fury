@@ -4,6 +4,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>fury</Title>
+    <PackageProjectUrl>https://github.com/redring1979/fury</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/redring1979/fury</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
